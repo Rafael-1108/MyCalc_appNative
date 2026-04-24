@@ -1,0 +1,8 @@
+export const PRETO = '#1a1a1a';
+export const CINZA_ESCURO = '#2d2d2d';
+export const CINZA_MEDIO = '#3d3d3d';
+export const LARANJA = '#f09000';
+export const LARANJA_ESCURO = '#c07000';
+export const BRANCO = '#ffffff';
+export const CINZA_CLARO = '#a5a5a5';
+export const VERMELHO = '#d9534f';
